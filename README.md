@@ -1,1 +1,1 @@
-# DDS - Desenvolvimento de sistemas(system development classes) -- Exerccios(exercices) --- Portugol
+# DDS - Desenvolvimento de sistemas -- Exerccios --- Portugol
